@@ -39,8 +39,8 @@ h2{
 }
 
 #menu a {
-	text-decration: nonw;
-	color:inherit;
+	text-decoration: nonw;
+	color: inherit;
 }
 #menu a:hover {
 	border-bottom: 1px solid #777777;
@@ -82,7 +82,7 @@ h2{
 	font-size: 130%;
 	font-family: Oswald;
 	text-transform: uppercase;
-	leter-spacing: 4px;
+	letter-spacing: 4px;
 
 	width: 300px;
 	height: 200px;
@@ -97,3 +97,44 @@ h2{
 
 	position: absolute;
 }
+
+#club-ethos {
+	height: 600px;
+}
+
+#left-about {
+	padding-top: 30px;
+	width: 33%;
+	float: left;
+}
+
+#right-about {
+	padding-top: 30px;
+	width: 33%;
+	float: right;
+}
+
+#center-about {
+	width: 33%;
+	margin:0 auto;
+}
+
+hr {
+	border-top: 1px solid #777777;
+	width: 100%;
+	margin: 5px;
+}
+
+.left-about-heading {
+	width: 50%;
+	float: right;
+	line-height: 20px;
+	clear: both;
+	margin-bottom: 50;
+}
+
+.right-about-heading {
+	text-align: right;
+}
+
+
